@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.test.automation.uiAutomation.homePage.TC001_VerifySuccessfulLogin">
+        <methods>
+          <include name="VerifySuccessfulLogin" invocation-numbers="0"/>
+          <include name="beforeMethod"/>
+          <include name="VerifyUnSuccessfulLogin" invocation-numbers="0"/>
+          <include name="endTest"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.homePage.TC001_VerifySuccessfulLogin -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

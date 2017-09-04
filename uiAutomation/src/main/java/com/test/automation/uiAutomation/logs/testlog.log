@@ -1,0 +1,13 @@
+2017-07-14 15:39:22,169 - com.test.automation.uiAutomation.config.Log -INFO - Executing: loadDataFromPropertiesFile method 
+2017-07-14 15:39:35,819 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:35,819 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:35,820 - com.test.automation.uiAutomation.config.Log -INFO - $$$$$$$$$$$$$$$$$$$$$                 VerifySuccessfulLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+2017-07-14 15:39:35,821 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:35,821 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:41,847 - com.test.automation.uiAutomation.config.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-VerifySuccessfulLogin             XXXXXXXXXXXXXXXXXXXXXX
+2017-07-14 15:39:41,923 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:41,924 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:41,924 - com.test.automation.uiAutomation.config.Log -INFO - $$$$$$$$$$$$$$$$$$$$$                 VerifyUnSuccessfulLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+2017-07-14 15:39:41,924 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:41,925 - com.test.automation.uiAutomation.config.Log -INFO - ****************************************************************************************
+2017-07-14 15:39:42,844 - com.test.automation.uiAutomation.config.Log -INFO - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-VerifyUnSuccessfulLogin             XXXXXXXXXXXXXXXXXXXXXX

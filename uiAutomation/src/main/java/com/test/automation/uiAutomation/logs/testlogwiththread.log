@@ -1,0 +1,13 @@
+2017-07-14 15:39:22,169 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - Executing: loadDataFromPropertiesFile method 
+2017-07-14 15:39:35,819 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:35,819 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:35,820 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - $$$$$$$$$$$$$$$$$$$$$                 VerifySuccessfulLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+2017-07-14 15:39:35,821 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:35,821 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:41,847 [TestNG-test=Test-1] INFO com.test.automation.uiAutomation.config.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-VerifySuccessfulLogin             XXXXXXXXXXXXXXXXXXXXXX
+2017-07-14 15:39:41,923 [TestNG-test=Test-2] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:41,924 [TestNG-test=Test-2] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:41,924 [TestNG-test=Test-2] INFO com.test.automation.uiAutomation.config.Log - $$$$$$$$$$$$$$$$$$$$$                 VerifyUnSuccessfulLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+2017-07-14 15:39:41,924 [TestNG-test=Test-2] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:41,925 [TestNG-test=Test-2] INFO com.test.automation.uiAutomation.config.Log - ****************************************************************************************
+2017-07-14 15:39:42,844 [TestNG-test=Test-2] INFO com.test.automation.uiAutomation.config.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-VerifyUnSuccessfulLogin             XXXXXXXXXXXXXXXXXXXXXX
