@@ -44,6 +44,7 @@ public class ChapterFirstPage {
 	// Method-4.
 	public ChapterFirstPage verifyButton() {
 		verifybutton.click();
+		System.out.println("hi");
 		return PageFactory.initElements(driver, ChapterFirstPage.class);
 	}
 }
